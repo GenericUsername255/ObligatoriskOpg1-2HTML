@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(144, 169, 187);
+}
+
+.rainbow-text { /* https://w3bits.com/rainbow-text/ */
+    background-image: linear-gradient(to right,black, rgba(19, 4, 4, 0.514), rgb(255, 0, 0));
+    background-clip:content-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+a {
+    color: rgba(170, 170, 255, 0.795)
+}
+.Lighter{
+    background-color: rgba(52, 58, 64, 0.623);
+}
